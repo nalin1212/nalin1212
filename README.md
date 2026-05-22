@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 <br>- 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning  <br>- 🧠 Interested in Transformers, Generative AI & Graph Neural Networks  <br>- 👁️ Working with OpenCV and Computer Vision technologies  <br>- 📚 Building projects based on AVGen and Adaptive GNN for Fraud Detection  <br>- ☁️ Learning scalable AI systems & cloud technologies  <br>- 🚀 Goal: Become an elite AI Engineer  <br>
+🌟 <br>- 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning  <br>- 🧠 Interested in Transformers, Generative AI & Graph Neural Networks  <br>- 👁️ Working with OpenCV and Computer Vision technologies  <br>- 📚 Building projects based on AVGen and Adaptive GNN for Fraud Detection  <br>- ☁️ Learning scalable AI systems & cloud technologies  <br>- 🚀 Goal: Become an  AI Engineer  <br>
 
 
 ## 🌐 Socials:
