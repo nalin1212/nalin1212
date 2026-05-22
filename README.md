@@ -1,32 +1,43 @@
-<h1 align="center">Hey 👋 I'm Nalin Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Nalin Tiwari</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;Transformers+%7C+OpenCV+%7C+GNNs;Building+Intelligent+Systems;Adaptive+GNN+for+Fraud+Detection;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+Passionate about Artificial Intelligence, Machine Learning, and building intelligent systems that solve real-world problems.
 </p>
 
 ---
 
-## 🌌 About Me
+### 🌟 About Me
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning  
+- 🧠 Interested in Transformers, Generative AI & Graph Neural Networks  
+- 👁️ Working with OpenCV and Computer Vision technologies  
+- 📚 Building projects based on AVGen and Adaptive GNN for Fraud Detection  
+- ☁️ Learning scalable AI systems & cloud technologies  
+- 🚀 Goal: Become an elite AI Engineer  
 
-```python
-class NalinTiwari:
+---
 
-    def __init__(self):
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Transformers",
-            "OpenCV",
-            "Generative AI",
-            "Graph Neural Networks"
-        ]
+### ⚡ Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **AI/ML:** Machine Learning, Deep Learning, Transformers, OpenCV, TensorFlow, Scikit-Learn  
+- **Development:** Flask, Flutter  
+- **Tools:** Git, GitHub, VS Code  
 
-        self.current_projects = [
-            "AVGen",
-            "Adaptive GNN for Fraud Detection"
-        ]
+---
 
-        self.goal = "Become an Elite AI Engineer 🚀"
+### 📌 Current Focus
+- Generative AI  
+- Fraud Detection using Adaptive GNNs  
+- Computer Vision with OpenCV  
+- Deep Learning & Transformers  
+- Competitive Programming  
 
-    def life(self):
-        return "Build • Learn • Innovate"
+---
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/your-link
+- Email: yourmail@example.com
+
+---
+
+⭐ *"Building intelligent systems for real-world impact."*
